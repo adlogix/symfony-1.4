@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/adlogix/symfony-1.4.png?branch=master)](https://travis-ci.org/adlogix/symfony-1.4)
+
 Symfony is a complete framework designed to optimize the development of web applications by way of several key features.
 For starters, it separates a web application's business rules, server logic, and presentation views.
 It contains numerous tools and classes aimed at shortening the development time of a complex web application.
