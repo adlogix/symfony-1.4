@@ -1,0 +1,6 @@
+{
+    "name": "adlogix/symfony-1.4",
+    "description": "Fork of symfony 1.4",
+    "license": "MIT",
+    "type": "library"
+}
