@@ -1,0 +1,9 @@
+language: php
+
+php:
+  - 5.3
+  - 5.4
+
+script:
+  - php data/bin/check_configuration.php
+  - php -dshort_open_tag=Off -dmagic_quotes_gpc=Off data/bin/symfony symfony:test --trace
